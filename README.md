@@ -36,4 +36,3 @@ This is a frontend-only project, meaning it focuses solely on the user interface
     * Navigate to the project directory.
     * Simply open the `index.html` file (or your main HTML file) in any modern web browser (e.g., Chrome, Firefox, Edge).
 
-## 📂 Project Structure (Example)
