@@ -1,4 +1,4 @@
-# 📚 Seamless Library Management System UI
+# 📚 Seamless Library Management System Frontend 
 
 ## ✨ Project Overview
 
